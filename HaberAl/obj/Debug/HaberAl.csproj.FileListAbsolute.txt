@@ -1,0 +1,13 @@
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\HaberAl.exe.config
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\HaberAl.exe
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\HaberAl.pdb
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\EntityFramework.dll
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\EntityFramework.xml
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.csprojResolveAssemblyReference.cache
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.Form1.resources
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.Properties.Resources.resources
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.csproj.GenerateResource.Cache
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.exe
+c:\users\section-1\documents\visual studio 2015\Projects\HaberAl\HaberAl\obj\Debug\HaberAl.pdb
